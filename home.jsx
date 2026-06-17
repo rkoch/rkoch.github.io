@@ -70,7 +70,7 @@ function HomeHero({ nav }) {
             <div style={{ position: 'relative', maxWidth: 420, marginLeft: 'auto' }}>
               <div aria-hidden="true" style={{ position: 'absolute', inset: '14px -14px -14px 14px', background: 'var(--accent)', borderRadius: 6, opacity: .14 }}></div>
               <div aria-hidden="true" style={{ position: 'absolute', inset: '24px -24px -24px 24px', border: '1px solid var(--line-2)', borderRadius: 6 }}></div>
-              <div style={{ position: 'relative', borderRadius: 6, overflow: 'hidden', border: '1px solid var(--line)', background: 'linear-gradient(180deg, #FCFBF7 0%, #FCFBF7 22%, #EBE4D5 68%, #D9D1BE 100%)' }}>
+              <div style={{ position: 'relative', borderRadius: 6, overflow: 'hidden', border: '1px solid var(--line)', background: 'linear-gradient(180deg, #FCFBF7 0%, #FCFBF7 22%, #F0E9DC 60%, #E9E1D2 100%)' }}>
                 <img src="assets/remo-cutout.webp" alt="Remo Koch" style={{ width: '100%', aspectRatio: '1/1', objectFit: 'cover', objectPosition: 'top center' }} />
                 <div style={{ position: 'absolute', left: 0, bottom: 0, right: 0, padding: '20px 18px 16px', background: 'linear-gradient(to top, rgba(14,26,23,.82), transparent)', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
                   <div>

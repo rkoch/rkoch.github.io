@@ -22,9 +22,9 @@ All Python is run via **`uv`** (no global installs). ImageMagick is `magick`.
 | `remo-2-cutout-full.png` | Headshot, full-res glow-fixed cutout (2000×2000). Master. |
 | `remo-prev-crop.jpg` | Superseded: the pre-cutout 900px home crop (before transparency). |
 
-`../assets/` holds only what the site serves: `remo-cutout.webp` (58 KB
-transparent cutout, on the home card over a CSS gradient) and `remo-2.webp`
-(About section). Everything else — sources, intermediates, masters — lives here
+`../assets/` holds only what the site serves: `remo-cutout.webp` (home) and
+`remo-2-cutout.webp` (About) — both transparent cutouts placed over the same
+CSS gradient. Everything else — sources, intermediates, masters — lives here
 in `orig/`.
 
 ---
