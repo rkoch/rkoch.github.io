@@ -40,7 +40,7 @@ function AboutPage() {
             <Reveal delay={120}>
               <div style={{ position: 'relative', maxWidth: 380, marginLeft: 'auto' }}>
                 <div aria-hidden="true" style={{ position: 'absolute', inset: '18px -18px -18px 18px', background: 'var(--accent)', opacity: .12, borderRadius: 6 }}></div>
-                <img src="assets/remo.jpg" alt="Remo Koch" style={{ position: 'relative', width: '100%', aspectRatio: '1/1', objectFit: 'cover', objectPosition: 'top center', borderRadius: 6, border: '1px solid var(--line)' }} />
+                <img src="assets/remo-2.jpg" alt="Remo Koch" style={{ position: 'relative', width: '100%', aspectRatio: '1/1', objectFit: 'cover', objectPosition: 'top center', borderRadius: 6, border: '1px solid var(--line)' }} />
               </div>
             </Reveal>
           </div>
